@@ -1,4 +1,4 @@
 # Scientia-website
 School web dev project
 
-You can find the website at http://scientia.alwaysdata.net/
+You can access the website at http://scientia.alwaysdata.net/
